@@ -8,11 +8,10 @@
 - **Специальность:** Natural Language Processing (NLP)
 
 ## 🔬 Сфера интересов
-- 💬 **NLP (Natural Language Processing)** - обработка естественного языка
-- 🤖 **Машинное обучение и глубокое обучение**
-- 📊 **Анализ текстовых данных**
-- 🧠 **Нейросетевые архитектуры для NLP**
-- 🔍 **Извлечение информации и анализ тональности**
+-  **NLP (Natural Language Processing)** - обработка естественного языка
+-  **Машинное обучение и глубокое обучение**
+-  **Анализ текстовых данных**
+-  **Нейросетевые архитектуры для NLP**
 
 ## 🛠 Технологический стек
 
@@ -29,10 +28,8 @@
 
 ### 🛠 Инструменты
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🌟 Текущие проекты
 
 ### 🔬 Исследовательские проекты
 - **RAG** - интеграция механизмов поиска в языковые модели
@@ -52,12 +49,3 @@
 - 💼 **Открыт для стажировок** и проектов
 - 👥 **Готов к совместным проектам** и исследованиям
 - 📚 **Делюсь знаниями** и учусь у других
-
-## 📚 Изучаю сейчас
-
-```python
-current_study = {
-    "frameworks": ["PyTorch", "HuggingFace", "Kaggle"],
-    "architectures": ["BERT", "GPT", "Transformer", "RAG", "Agents"],
-    "topics": ["Text Generation", "Sentiment Analysis", "NER"]
-}
