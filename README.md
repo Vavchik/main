@@ -1,6 +1,4 @@
-# 👋 Привет, я студент ИМТО, специализируюсь на инженерии искусственного интеллекта
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=AI+Engineering+Student;NLP+Enthusiast;Python+Developer;Open+for+Collaboration" alt="Typing SVG" /></a>
+# Cтудент ИМТО, специализируюсь на инженерии искусственного интеллекта в области обработки естественного языка
 
 ## 🎓 Образование
 - **ВУЗ:** ИТМО
@@ -10,7 +8,6 @@
 ## 🔬 Сфера интересов
 -  **NLP (Natural Language Processing)** - обработка естественного языка
 -  **Машинное обучение и глубокое обучение**
--  **Анализ текстовых данных**
 -  **Нейросетевые архитектуры для NLP**
 
 ## 🛠 Технологический стек
